@@ -1,0 +1,17 @@
+{
+   "author": "Buu Nguyenx",
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "description": "Code tree for GitHub",
+   "icons": {
+      "128": "icons/icon128.png"
+   },
+   "manifest_version": 2,
+   "name": "Octotreexx",
+   "optional_permissions": [ "\u003Call_urls>" ],
+   "permissions": [ "http://192.168.11.236:8080/*", "storage" ],
+   "version": "2.4.1",
+   "web_accessible_resources": [ "*.woff2" ]
+}
